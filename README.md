@@ -1,16 +1,25 @@
-### Hi there 👋
+# Francisco Lopez
 
-<!--
-**franNotSleep/franNotSleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a proactive and solution-oriented Software Developer with a Bachelor's degree in Software Development from Nuestra señora de la esperanza ITLA. My expertise lies in backend development, specializing in creating APIs and microservices, proficient in database design, and management. I excel in executing refactoring tasks, implementing new features, and troubleshooting with precision and efficiency.
 
-Here are some ideas to get you started:
+## Tools
+- JavaScript
+- Node.js
+- Next.js
+- Nest.js
+- Express.js
+- MongoDB
+- MySQL
+- PostgreSQL
+- C#
+- Docker
+- Azure
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- English: Professional
+- Spanish: Native
+
+- 📫 How to reach me: frano04930@gmail.com
+- 😄 Pronouns: he/him
