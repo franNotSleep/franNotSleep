@@ -20,6 +20,7 @@ I am a proactive and solution-oriented Software Developer with a Bachelor's degr
 ## Languages
 - English: Professional
 - Spanish: Native
-
+- 
+## How to reach me
 - 📫 How to reach me: frano04930@gmail.com
 - 😄 Pronouns: he/him
