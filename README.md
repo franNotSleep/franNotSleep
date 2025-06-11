@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francisco Jose</h1>
 <h3 align="center">A passionate Web developer from DR🇩🇴</h3>
 
-- 🌱 I’m currently learning **Go**
-
-- 👨‍💻 All of my projects are available at [https://frannotsleep.vercel.app/](https://frannotsleep.vercel.app/)
-
 - 💬 Ask me about **NodeJS, python, C#, C, Typescript, Express.js, NestJS, NextJs, React**
 
 - 📫 How to reach me **frano04930@gmail.com**
