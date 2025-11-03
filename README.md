@@ -56,5 +56,6 @@ I studied **Software Development at ITLA**, but most of my knowledge comes from 
 ---
 
 <div align="center">
-  <sub><em>“Old tech or new, curiosity always wins.”</em></sub>
+  <sub><em>“y conoceréis la verdad, y la verdad os hará libres.”</em></sub><br/>
+  <sub>— Juan 8:32</sub>
 </div>
