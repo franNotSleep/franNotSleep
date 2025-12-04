@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#38bdf8;">Klk muchachones!, I'm Francisco Jose 👋</h1>
+<h1 align="center" style="color:#38bdf8;">Klk muchachones! I'm Francisco Jose 👋</h1>
 
 ---
 
