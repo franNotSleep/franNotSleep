@@ -32,6 +32,8 @@ I studied **Software Development at ITLA**, but most of my knowledge comes from 
 - **[Borrowerman](https://borrowerman.com)**: Manage and track lent or rented items in one dashboard.
 - **[Crisadivina](https://github.com/frannotsleep/crisadivina)**: A simple guess-the-number game with rooms and multiplayer capabilities, made with go & htmx.
 
+---
+
 ### 💻 Technologies I’ve Used in Production
 - The one and only **JavaScript** (which brings us to **NodeJS**, **ReactJS**, **AngularJS**, **TypeScript**, **ExpressJS**, **NextJS**, **NestJS**) — give a strong clap 👏  
 - **Go** — I love this one!  
