@@ -28,7 +28,7 @@ I studied **Software Development at ITLA**, but most of my knowledge comes from 
 
 ---
 
-### Recent Proyects
+### 🏆 Recent Proyects
 - **[Borrowerman](https://borrowerman.com)**: Manage and track lent or rented items in one dashboard.
 - **[Crisadivina](https://github.com/frannotsleep/crisadivina)**: A simple guess-the-number game with rooms and multiplayer capabilities, made with go & htmx.
 
