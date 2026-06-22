@@ -29,8 +29,8 @@ I studied **Software Development at ITLA**, but most of my knowledge comes from 
 ---
 
 ### 🏆 Recent Proyects
-- **[Borrowerman](https://borrowerman.com)**: Manage and track lent or rented items in one dashboard.
-- **[Crisadivina](https://github.com/frannotsleep/crisadivina)**: A simple guess-the-number game with rooms and multiplayer capabilities, made with go & htmx.
+- **[Niujaus](https://niujaus.com)**: Niu Haus is an AI-powered home search app.
+- **[Duomir](https:duomir.com)**: Fully autonomous client communication for WhatsApp + Gmail. (WIP)
 
 ---
 
